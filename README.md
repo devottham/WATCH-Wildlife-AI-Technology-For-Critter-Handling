@@ -37,7 +37,7 @@ Our AI model is trained to detect:
 
 ## 🎥 Project Demo  
 Watch the demonstration video here:  
-[![WATCH Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![WATCH Demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=OKvN8kCjirQ))
 
 
 
